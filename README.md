@@ -1,3 +1,5 @@
 # Fitness_wearable_data_analysis
 
-<img width="350" height="7447" alt="FireShot Capture 001 - Fitness_wearable_data_analysis -  localhost" src="https://github.com/user-attachments/assets/19874d0f-9267-4b9c-a0e4-6c92d873a66f" />
+![FireShot Capture 005 - Fitness_wearable_data_analysis -  localhost](https://github.com/user-attachments/assets/ed49387e-4a0a-4ab6-9595-a931ad79c1d0)
+
+
